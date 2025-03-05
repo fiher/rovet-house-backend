@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy
+asyncpg
+alembic
+pytest
+black
+isort
+flake8
